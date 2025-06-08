@@ -77,3 +77,4 @@ istream& operator >>(istream& cin, Student& A){
     return cin;
 }
 
+// i am very bad at git i still need to learn it hahahahahaha   
